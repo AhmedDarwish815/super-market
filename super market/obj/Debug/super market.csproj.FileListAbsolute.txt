@@ -1,0 +1,15 @@
+C:\Users\Ahmed\source\repos\super market\super market\bin\Debug\super market.exe.config
+C:\Users\Ahmed\source\repos\super market\super market\bin\Debug\super market.exe
+C:\Users\Ahmed\source\repos\super market\super market\bin\Debug\super market.pdb
+C:\Users\Ahmed\source\repos\super market\super market\bin\Debug\Guna.UI2.dll
+C:\Users\Ahmed\source\repos\super market\super market\obj\Debug\super market.csproj.AssemblyReference.cache
+C:\Users\Ahmed\source\repos\super market\super market\obj\Debug\super_market.Properties.Resources.resources
+C:\Users\Ahmed\source\repos\super market\super market\obj\Debug\super market.csproj.GenerateResource.cache
+C:\Users\Ahmed\source\repos\super market\super market\obj\Debug\super market.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\source\repos\super market\super market\obj\Debug\super ma.0D46E682.Up2Date
+C:\Users\Ahmed\source\repos\super market\super market\obj\Debug\super market.exe
+C:\Users\Ahmed\source\repos\super market\super market\obj\Debug\super market.pdb
+C:\Users\Ahmed\source\repos\super market\super market\obj\Debug\super_market.LOGIN_Form.resources
+C:\Users\Ahmed\source\repos\super market\super market\obj\Debug\super_market.splash_Form.resources
+C:\Users\Ahmed\source\repos\super market\super market\obj\Debug\super_market.CategoryForm.resources
+C:\Users\Ahmed\source\repos\super market\super market\obj\Debug\super_market.Product_Form.resources
